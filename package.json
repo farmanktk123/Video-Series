@@ -1,0 +1,12 @@
+{
+  "name": "videoseries",
+  "version": "1.0.0",
+  "description": "this is video series project by chai aor backend with javascript",
+  "license": "ISC",
+  "author": "Farman Nabi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
